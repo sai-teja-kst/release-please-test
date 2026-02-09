@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0-beta.0](https://github.com/sai-teja-kst/release-please-test/compare/release-please-test-v0.1.0-beta.0...release-please-test-v0.2.0-beta.0) (2026-02-09)
+
+
+### Features
+
+* **repo:** updated res body to trigger prod release ([b76afdf](https://github.com/sai-teja-kst/release-please-test/commit/b76afdffe9fc6fb687c6966cc47269404e2ba77e))
+
 ## [0.1.0-beta.0](https://github.com/sai-teja-kst/release-please-test/compare/release-please-test-v0.0.0-beta.0...release-please-test-v0.1.0-beta.0) (2026-02-09)
 
 
