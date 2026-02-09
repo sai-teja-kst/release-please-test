@@ -23,7 +23,7 @@ jobs:
       - name: Release Please (beta)
         uses: google-github-actions/release-please-action@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          target-branch: beta
+          token: ${{ secrets.RELEASE_TOKEN }}
+          target-branch: development
           config-file: release-please-config.beta.json
           manifest-file: .release-please-manifest-beta.json
